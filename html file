@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safety Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+
+    <nav>
+        <button onclick="location.href='index.html'">HOME 🏠 </button>
+        <button onclick="location.href='parts.html'">PARTS 🧩</button>
+        <button onclick="location.href='team.html'">TEAM 🧑🏾‍🤝‍🧑🏾</button>
+        <button onclick="location.href='project.html'">PROJECT 👷‍♀️</button>
+        <button onclick="location.href='safety.html'">SAFETY 🦺</button>
+        <button onclick="location.href='human.html'"> HUMAN PRACTICES 🧑🏾‍🤝</button>
+        <button onclick="location.href='awards.html'"> AWARDS 🏆</button>
+            
+    </nav>
+
+        <h1>SAFETY </h1>  
+        
+<p>In every scientific expedition, safety is of utmost priority throughout the process. Our 2025 Team
+    acknowledged this outcome and implemented measures from our genetic designs to our everyday lab 
+    routines. This all stemmed from our informative session with Team PI, Dr. Elena Rosca and
+    Prince, on the general lab safety rules ahead of our project's inception.
+</p> 
+
+<nav class="nav-buttons">
+    <button onclick="location.href='general.html'">General Lab Safety </button>
+    <button onclick="location.href='projectsafety.html'">Project Safety</button>
+    <button onclick="location.href='reference.html'">References </button>
+</nav>
+
+<div class="section">
+    <div class="buttons">
+        <button class="button">
+            <img src="safelab.png" alt="General Lab Safety"> 
+            <span>General Lab Safety</span>
+           
+            
+        </button>
+
+        <p> All things concerning General Lab Safety</p>
+        <button class="button">
+            <img src="project.jpg" alt="Project Safety"> 
+            <span> Project Safety</span>
+           
+        </button>
+
+        <p> All things concerning Project Safety</p>
+        <button class="button">
+            <img src="reference.png" alt="References"> 
+            <span>References</span>
+           
+        </button>
+        <p> All things concerning References</p>
+ </div>
+   
+
+
+<h2> Our Sponsors</h2>
+<ul>
+<li> Ashesi University</li> 
+<li>SOLIDWORKS</li>
+<li>Bio Labs</li>
+<li> Bio Render</li> 
+
+</ul>
+
+    <footer> 
+        <p> &copy; 2025 - Content on this site is licensed under a Creative
+            Commons Attribution 4.0 International License. 
+       
+        The repository used to create this website is available at 
+       
+        <a href="https://github.com/JESSICAAMOAATTA/IGEM-SAMPLE.git" target="_blank"> 
+            GitHub Repository
+        </a>.
+        </p>
+           
+    </footer>
+    
+</body>
+</html>
